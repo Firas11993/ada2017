@@ -22,7 +22,7 @@ The dataset that will be used is the twitter dataset (the global one), we might 
 
 - Find a list of keywords to look for in the twitter dataset to find our target lifestyles tweets that we want to analyze.
 - Filter out the ones with very few tweets.
-- Learn how to use sentiment analysis on text to find out people's opinions.
+- Use sentiment analysis on text to find out people's opinions.
 
 # Questions for TAs
 
