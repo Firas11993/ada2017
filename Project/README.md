@@ -5,7 +5,7 @@ Repo for the project
 In the last 4-5 years, we have seen many new lifestyle trends (veganism, minimalism, nofap, intermittent fasting, ...), and we have seen all sorts of opinions about them which tend to differ through different regions and different years. These opinions are especially very clear on social media, such as twitter. 
 In this project, we intend to use sentiment analysis to see how twitter users view these new trends and how much it changes through the years and through different regions of the world and/or different language speakers.
 
-After doing the analysis described above, we hope to find a way to know what lifestyles have especially helped people's lives to change for the better, which means we will have to analyze what people that live these lives are posting about their changes and see how positive they are.
+After doing the analysis described above, we hope to find a way to know what lifestyles have especially helped people's lives to change for the better, which means we will have to analyze what people that follow these habits are posting about their changes and see how positive they are.
 
 # Research Questions :  
 - What regions like which new lifestyle better?
