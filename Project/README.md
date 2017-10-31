@@ -8,11 +8,11 @@ In this project, we intend to use sentiment analysis to see how twitter users vi
 After doing the analysis described above, we hope to find a way to know what lifestyles have especially helped people's lives to change for the better, which means we will have to analyze what people that live these lives are posting about their changes and see how positive they are.
 
 # Research Questions :  
-What regions like which new lifestyle better?
-What regions has seen the most change viewing a given trend?
-What trends has had the most change in terms of how people view them?
-Is there a possible explanation to how these potential changes happened?
-Which lifestyles have affected twitter user's lives for better the most?
+- What regions like which new lifestyle better?
+- What regions has seen the most change viewing a given trend?
+- What trends has had the most change in terms of how people view them?
+- Is there a possible explanation to how these potential changes happened?
+- Which lifestyles have affected twitter user's lives for better the most?
 
 # Dataset 
 
