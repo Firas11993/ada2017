@@ -27,4 +27,4 @@ The dataset that will be used is the twitter dataset (the global one), we might 
 # Questions for TAs
 
 - Is the second part described in the absract feasible?
-- Is there a way to find out where the twitter users are located.
+- Is there a way to find out where the twitter users are located?
