@@ -1,0 +1,29 @@
+Canton,Mois,Septembre 2017,Septembre 2017,Total,Total
+ ,Mesures,Taux de chômage,Chômeurs inscrits,Taux de chômage,Chômeurs inscrits
+Zurich,,3.3,27'225,3.3,27'225
+Berne,,2.4,13'658,2.4,13'658
+Lucerne,,1.7,3'885,1.7,3'885
+Uri,,0.6,112,0.6,112
+Schwyz,,1.7,1'455,1.7,1'455
+Obwald,,0.7,153,0.7,153
+Nidwald,,1,248,1,248
+Glaris,,1.8,416,1.8,416
+Zoug,,2.3,1'543,2.3,1'543
+Fribourg,,2.7,4'466,2.7,4'466
+Soleure,,2.6,3'801,2.6,3'801
+Bâle-Ville,,3.5,3'455,3.5,3'455
+Bâle-Campagne,,2.8,4'082,2.8,4'082
+Schaffhouse,,3,1'286,3,1'286
+Appenzell Rhodes-Extérieures,,1.7,523,1.7,523
+Appenzell Rhodes-Intérieures,,0.7,62,0.7,62
+St-Gall,,2.2,6'127,2.2,6'127
+Grisons,,1.1,1'166,1.1,1'166
+Argovie,,2.9,10'684,2.9,10'684
+Thurgovie,,2,3'058,2,3'058
+Tessin,,3.1,5'202,3.1,5'202
+Vaud,,4.3,17'155,4.3,17'155
+Valais,,2.8,4'816,2.8,4'816
+Neuchâtel,,5.1,4'738,5.1,4'738
+Genève,,5.2,12'234,5.2,12'234
+Jura,,4.4,1'619,4.4,1'619
+Total,,3,133'169,3,133'169
